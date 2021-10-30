@@ -158,7 +158,7 @@ async def imdb_callback(bot: Client, query: CallbackQuery):
             ]
         ]
     if imdb.get('poster'):
-        await query.message.reply_photo(photo=imdb['poster'], caption=f"IMDb Data:\n\n<b>🎬 𝖳𝗂𝗍𝗅𝖾 : <a href={imdb['url']}>{imdb.get('title')}</a></b>\n<b>🎭 Genres : {imdb.get('genres')}</b>\n<b>📆 Year :<a href={imdb['url']}/releaseinfo>{imdb.get('year')}</a></b>\n<b>🌟 Rating : <a href={imdb['url']}/ratings>{imdb.get('rating')}</a> / 10</b>\n<b>🖋 StoryLine: {imdb.get('plot')} </b>", reply_markup=InlineKeyboardMarkup(btn))
+        await query.message.reply_photo(photo=imdb['poster'], caption=f"IMDb Data:\n\n<b>🎬 𝖳𝗂𝗍𝗅𝖾 : <a href={imdb['url']}>{imdb.get('title')}</a></b>\n<b>🎭 Genres : {imdb.get('genres')}</b>\n<b>📆 Year : <a href={imdb['url']}/releaseinfo>{imdb.get('year')}</a></b>\n<b>🌟 Rating : <a href={imdb['url']}/ratings>{imdb.get('rating')}</a> / 10</b>\n<b>🖋 StoryLine : {imdb.get('plot')} </b>", reply_markup=InlineKeyboardMarkup(btn))
 
         await query.message.delete()
 
