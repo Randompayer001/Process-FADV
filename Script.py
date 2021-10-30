@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """нєℓℓσω {}\n\n╰•★★  ɱყ ơῳŋɛཞ ıʂ <b><a href='https://t.me/mhd_thanzeer'>★  ɱɧɖ ɬɧąŋʑɛɛཞ ★</a></b>\n, ı ƈąŋ ℘ཞơ۷ıɖɛ ɱơ۷ıɛʂ ყơų ƈąŋ'ɬ ąɖɖ ɱɛ ɬơ ყơųཞ ɠཞơų℘ ı ɧơ℘ɛ ɛŋʝơყ ★★•╯"""
+    START_TXT = """нєℓℓσω {}\n\n╰•★★  ɱყ ơῳŋɛཞ ıʂ <b><a href='https://t.me/mhd_thanzeer'>★  ɱɧɖ ɬɧąŋʑɛɛཞ ★</a></b>\n<b><u>I Can Provide Movies In @wolfpackmedia You Can Use Me In </u>@wolfpackmedia <u>But Not Use Pm Or Your Group..!! 😌</u></b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙴𝚟𝚊 𝙼𝚊𝚛𝚒𝚊
