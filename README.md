@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/8a551da2ed9feb78d0076.jpg" alt="Mhd Thanzeer Logo">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
