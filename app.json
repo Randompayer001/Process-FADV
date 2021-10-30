@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "Contact on TG": "https://t.me/mhd_thanzeer",
+    "Movie Request Group": "https://t.me/wolfpackmedia",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
