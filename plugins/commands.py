@@ -54,16 +54,32 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🤖 Join Updates Channel", url=invite_link.invite_link
+                    "➡️ 𝗝𝗢𝗜𝗡 𝗠𝗬 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟", url=invite_link.invite_link
                 )
             ]
         ]
 
         if message.command[1] != "subscribe":
-            btn.append([InlineKeyboardButton(" 🔄 Try Again", callback_data=f"checksub#{message.command[1]}")])
+            btn.append([InlineKeyboardButton("♻️ 𝐓𝐑𝐘 𝐀𝐆𝐀𝐈𝐍 𝐓𝐎 𝐀𝐂𝐂𝐄𝐒𝐒 ♻️", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**Please Join My Updates Channel to use this Bot!**",
+            text="**⚠️ YOU ARE NOT SUBSCRIBED OUR CHANNEL ⚠️
+
+🤗 JOIN ON OUR CHANNEL TO GET MOVIES  ✅
+
+⭕️ NOTE : After Joining Click On The "Try Again" Button..!! ♻️
+
+▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+
+⚠️ താങ്കൾ ഞങ്ങളുടെ ചാനൽ സബ്സ്ക്രൈബ് ചെയ്തിട്ട് ഇല്ല!! ⚠️
+
+🤗 ഞങ്ങളുടെ ചാനലിൽ ജോയിൻ ചെയ്യതാൽ താങ്കൾക്ക് മൂവീസ് കിട്ടുന്നതാണ്  ✅
+
+⭕️ NOTE : ജോയിൻ ചെയ്തുകഴിഞ്ഞ ശേഷം "Try Again" എന്ന ബട്ടൺ ക്ലിക്ക് ചെയ്യുക..!! ♻️
+
+ ⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉
+
+➥ Any Help Or Doubt Contact : @mhd_thanzeer**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
             )
@@ -71,7 +87,7 @@ async def start(client, message):
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay"]:
         buttons = [[
 
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/EvaMariaBot?startgroup=true')
+            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/wpm_autofilter?startgroup=true')
 
             ],[
 
