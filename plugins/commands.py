@@ -71,7 +71,7 @@ async def start(client, message):
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay"]:
         buttons = [[
 
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/wpm_autofilter?startgroup=true')
+            InlineKeyboardButton('✨ Follow Me On Instagram ✨', url='Instagram.com/mhd__thanzeer')
 
             ],[
 
