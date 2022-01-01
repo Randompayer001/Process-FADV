@@ -5,12 +5,12 @@ class script(object):
 
 🌚 𝘛𝘩𝘢𝘵'𝘴 𝘈𝘭𝘭 𝘔𝘢𝘯 𝘐 𝘞𝘪𝘭𝘭 𝘗𝘳𝘰𝘷𝘪𝘥𝘦 𝘔𝘰𝘷𝘪𝘦𝘴 𝘐𝘯 𝘗𝘔
 
-✨ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 :  <a href='https://t.me/mhd_thanzeer'>𝙈𝙃𝘿 𝙏𝙃𝘼𝙉𝙕𝙀𝙀𝙍</a> </b>"""
+✨ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 :  <a href='https://t.me/Anandu2506'>𝗔𝗡𝗔𝗡𝗗𝗨</a> </b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>🥱 My Name : MHD CREATION
+    ABOUT_TXT = """<b>
 
-🕵‍♂ Developer : <a href='https://t.me/mhd_thanzeer'>★  ɱɧɖ ɬɧąŋʑɛɛཞ ★</a>
+🕵‍♂ Developer : <a href='https://t.me/Anandu2506'>𝗔𝗡𝗔𝗡𝗗𝗨</a>
 
 📚 Library : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
@@ -18,12 +18,12 @@ class script(object):
 
 🎪 Data Base : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 
-🔋 Bot Group : @wolfpackmedia </b>"""
+🔋 Bot Group : @searchandtakemovie</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-👋<b><i>എന്താടാ മോനെ നോക്കുന്നേ നിനക്ക് ആവശ്യമായിട്ടുള്ളത് ഇവിടെ ഇല്ല 😌
-</i></b>
 
-<b>🕵‍♂ Developer : <a href='https://t.me/mhd_thanzeer'>★  ɱɧɖ ɬɧąŋʑɛɛཞ ★</a> </b>
+
+
+<b>🕵‍♂ Repo Editor : <a href='https://t.me/mhd_thanzeer'>★  ɱɧɖ ɬɧąŋʑɛɛཞ ★</a> </b>
 """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
